@@ -2,7 +2,7 @@ class Opctl < Formula
   desc "Automate operating your project; use containers as building blocks."
   homepage "https://opctl.io"
   url "https://github.com/chrisdostert/homebrew-opctl/releases/download/0.0.1/opctl.tar.gz"
-  sha256 "c6a951d690939c15a4aa0dc10314668ea9e86865037c121f46ff14614a595c6d"
+  sha256 "4e53fd344383e5f2a47aa719ea3e9c7c93372f75e388d2498bf7caaa86853450"
   depends_on "lima"
   depends_on "docker"
   link_overwrite "/usr/local/bin/opctl"
